@@ -21,9 +21,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning 
     <ul>
       <li>Python</li>
-      <li>Django</li>
-      <li>javascript</li>
-      <li>Node.js</li>
     </ul>
     
 - 🌱 I can handle
